@@ -1,0 +1,13 @@
+{
+  "header": {
+    "title": "My Next.js App"
+  },
+  "footer": {
+    "copyright": "© 2024 My Next.js App. All rights reserved."
+  },
+  "home": {
+    "welcome": "Welcome!",
+    "description": "This is a sample application built with Next.js, TypeScript, and Tailwind CSS.",
+    "cta": "Get Started"
+  }
+}
